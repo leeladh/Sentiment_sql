@@ -1,0 +1,9 @@
+numpy
+beautifulsoup4
+contractions
+spacy
+nltk
+tensorflow
+keras
+flask
+mysql.connector
